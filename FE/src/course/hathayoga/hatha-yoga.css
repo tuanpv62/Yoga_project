@@ -1,0 +1,561 @@
+.hatha-yoga-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.hatha-yoga-hatha-yoga {
+  width: 100%;
+  height: 3692px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.hatha-yoga-mainnavigation {
+  top: 0px;
+  left: -14px;
+  width: 1438px;
+  height: 87px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.hatha-yoga-div {
+  top: 0px;
+  left: 270.99993896484375px;
+  width: 875px;
+  height: 86.66666412353516px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.hatha-yoga-div1 {
+  gap: 130.96725463867188px;
+  top: 8px;
+  left: -0.321533203125px;
+  width: 80px;
+  display: flex;
+  padding: 0 9.297804832458496px 0 0;
+  position: absolute;
+  flex-grow: 1;
+  align-items: flex-end;
+}
+.hatha-yoga-div2 {
+  width: 472.5195617675781px;
+  height: 43.33333206176758px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.hatha-yoga-text {
+  top: 11px;
+  left: 359px;
+  color: rgba(85, 85, 71, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.928571701049805px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 20.892854690551758px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-text02 {
+  top: 12px;
+  left: 221px;
+  color: rgba(85, 85, 71, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.928571701049805px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 20.892854690551758px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-text04 {
+  top: 12px;
+  left: 124px;
+  color: rgba(85, 85, 71, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.928571701049805px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 20.892854690551758px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-text06 {
+  top: 12px;
+  left: -15px;
+  color: rgba(85, 85, 71, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.928571701049805px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 20.892854690551758px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-divsigninsignup {
+  gap: 12.380951881408691px;
+  top: 18px;
+  left: 859px;
+  width: 70px;
+  display: flex;
+  padding: 0 0 6.190475940704346px 0;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.hatha-yoga-a {
+  width: 100px;
+  display: flex;
+  padding: 6.190475940704346px 16.322542190551758px 6.190475940704346px 17.023807525634766px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 144, 144, 1);
+  border-style: solid;
+  border-width: 1.5476189851760864px;
+  border-radius: 7737.3212890625px;
+}
+.hatha-yoga-frame1 {
+  gap: 10px;
+  width: 50px;
+  height: 39px;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  align-items: flex-start;
+}
+.hatha-yoga-text08 {
+  color: rgba(0, 144, 144, 1);
+  right: -3px;
+  bottom: 10px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 18.571428298950195px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-a1 {
+  width: 101px;
+  display: flex;
+  padding: 6.190475940704346px 16.322542190551758px 6.190475940704346px 17.023807525634766px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 144, 144, 1);
+  border-style: solid;
+  border-width: 1.5476189851760864px;
+  border-radius: 7737.3212890625px;
+}
+.hatha-yoga-frame11 {
+  gap: 10px;
+  width: 50px;
+  height: 39px;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  align-items: flex-start;
+}
+.hatha-yoga-text10 {
+  color: rgba(0, 144, 144, 1);
+  right: -15px;
+  bottom: 10px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 18.571428298950195px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-image121 {
+  top: 8px;
+  left: 166px;
+  width: 92px;
+  height: 71px;
+  position: absolute;
+}
+.hatha-yoga-divsearch {
+  top: 29px;
+  left: 686px;
+  width: 227px;
+  height: 30.952381134033203px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.hatha-yoga-button {
+  top: 0px;
+  left: 150px;
+  width: 31px;
+  display: flex;
+  padding: 6.190475940704346px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 7737.3212890625px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.hatha-yoga-svg {
+  width: 19px;
+  height: 19px;
+}
+.hatha-yoga-rectangle1 {
+  top: 3px;
+  left: 191px;
+  width: 190px;
+  height: 27px;
+  position: absolute;
+  border-radius: 10px;
+}
+.hatha-yoga-text12 {
+  top: 6px;
+  color: rgba(157, 156, 156, 1);
+  right: -27px;
+  height: auto;
+  position: absolute;
+  font-size: 12.380951881408691px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 18.571428298950195px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-rectangle25 {
+  top: 87px;
+  left: 0px;
+  width: 1474px;
+  height: 734px;
+  position: absolute;
+}
+.hatha-yoga-header {
+  top: -927px;
+  left: 118px;
+  width: 1330px;
+  height: 1748px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.hatha-yoga-rectangle24 {
+  top: 0px;
+  left: 0px;
+  width: 508px;
+  height: 332px;
+  position: absolute;
+}
+.hatha-yoga-hatha-yoga-posesfor-beginners315783073931 {
+  top: 1020px;
+  left: 622px;
+  width: 672px;
+  height: 734px;
+  position: absolute;
+}
+.hatha-yoga-text14 {
+  top: 1222px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 18.571428298950195px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-text16 {
+  top: 1282px;
+  color: rgba(0, 0, 0, 1);
+  width: 561px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: justified;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-frame6 {
+  top: 821px;
+  left: 207px;
+  width: 1033px;
+  height: 1945px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.hatha-yoga-text18 {
+  top: 159px;
+  color: rgba(0, 0, 0, 1);
+  width: 1033px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Light;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 300;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-text20 {
+  top: 96px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-text22 {
+  top: 307px;
+  color: rgba(0, 0, 0, 1);
+  width: 1009px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-text23 {
+  font-weight: 400;
+}
+.hatha-yoga-text24 {
+  font-weight: 300;
+}
+.hatha-yoga-text30 {
+  font-weight: 400;
+}
+.hatha-yoga-text31 {
+  font-weight: 300;
+}
+.hatha-yoga-text37 {
+  font-weight: 400;
+}
+.hatha-yoga-text38 {
+  font-weight: 300;
+}
+.hatha-yoga-text44 {
+  font-weight: 400;
+}
+.hatha-yoga-text45 {
+  font-weight: 300;
+}
+.hatha-yoga-text51 {
+  font-weight: 400;
+}
+.hatha-yoga-text53 {
+  top: 1061px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-blogfooter {
+  top: 3422px;
+  left: 0px;
+  width: 1448px;
+  height: 270px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.hatha-yoga-rectangle22 {
+  top: 0px;
+  left: 0px;
+  width: 1448px;
+  height: 270px;
+  position: absolute;
+}
+.hatha-yoga-rectangle23 {
+  top: 81px;
+  left: 487px;
+  width: 473px;
+  height: 169px;
+  position: absolute;
+  border-color: rgba(255, 253, 253, 1);
+}
+.hatha-yoga-pngwing10 {
+  top: 163px;
+  left: 558px;
+  width: 30px;
+  height: 24px;
+  position: absolute;
+}
+.hatha-yoga-pngwing11 {
+  top: 203px;
+  left: 558px;
+  width: 30px;
+  height: 31px;
+  position: absolute;
+}
+.hatha-yoga-pngwing12 {
+  top: 98px;
+  left: 555px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.hatha-yoga-text55 {
+  top: 88px;
+  left: 600px;
+  color: rgba(255, 255, 255, 1);
+  width: 312px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-text57 {
+  top: 161px;
+  left: 600px;
+  color: rgba(248, 248, 246, 1);
+  width: 156px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-text59 {
+  top: 204px;
+  left: 600px;
+  color: rgba(248, 248, 246, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-appsocialcircles {
+  gap: 8px;
+  top: 135px;
+  left: 267px;
+  width: 168px;
+  display: flex;
+  padding: 0 0 4px 0;
+  position: absolute;
+  flex-grow: 1;
+  align-items: flex-start;
+}
+.hatha-yoga-svg1 {
+  width: 36px;
+  height: 36px;
+}
+.hatha-yoga-svg2 {
+  width: 36px;
+  height: 36px;
+}
+.hatha-yoga-svg3 {
+  width: 36px;
+  height: 36px;
+}
+.hatha-yoga-svg4 {
+  width: 36px;
+  height: 36px;
+}
+.hatha-yoga-text61 {
+  top: 126px;
+  left: 1012px;
+  color: rgba(255, 255, 255, 1);
+  width: 224px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hatha-yoga-text63 {
+  top: 18px;
+  left: 619px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,584 @@
+.hlv-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+
+.hlv-hlv {
+  width: 100%;
+  height: 1438px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.hlv-frame4 {
+  top: 119px;
+  left: 0px;
+  width: 100%;
+  height: 1321px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 0.800000011920929);
+}
+
+.hlv-pngwing7 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  position: absolute;
+}
+
+.hlv-text {
+  top: 30px;
+  left: 541px;
+  color: rgba(0, 0, 0, 1);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.hlv-group454 {
+  top: 124px;
+  left: 143px;
+  width: 1147px;
+  height: 253px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.hlv-rectangle20 {
+  top: 22px;
+  left: 286px;
+  width: 861px;
+  height: 213px;
+  position: absolute;
+  border-radius: 60px;
+}
+
+.hlv-text02 {
+  top: 93px;
+  left: 355px;
+  color: rgba(0, 0, 0, 1);
+  width: 723px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: italic;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.hlv-text04 {
+  top: 39px;
+  left: 355px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.hlv-ellipse7 {
+  top: 0px;
+  left: 0px;
+  width: 267px;
+  height: 253px;
+  position: absolute;
+}
+
+.hlv-group455 {
+  top: 408px;
+  left: 143px;
+  width: 1147px;
+  height: 253px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.hlv-rectangle201 {
+  top: 20px;
+  left: 286px;
+  width: 861px;
+  height: 213px;
+  position: absolute;
+  border-radius: 60px;
+}
+
+.hlv-text06 {
+  top: 93px;
+  left: 355px;
+  color: rgba(0, 0, 0, 1);
+  width: 723px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: italic;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.hlv-text08 {
+  top: 26px;
+  left: 337px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.hlv-ellipse71 {
+  top: 0px;
+  left: 0px;
+  width: 267px;
+  height: 253px;
+  position: absolute;
+}
+
+.hlv-group4541 {
+  top: 956px;
+  left: 143px;
+  width: 1147px;
+  height: 253px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.hlv-rectangle202 {
+  top: 22px;
+  left: 286px;
+  width: 861px;
+  height: 213px;
+  position: absolute;
+  border-radius: 60px;
+}
+
+.hlv-text10 {
+  top: 93px;
+  left: 355px;
+  color: rgba(0, 0, 0, 1);
+  width: 723px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: italic;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.hlv-text12 {
+  top: 39px;
+  left: 355px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.hlv-ellipse72 {
+  top: 0px;
+  left: 0px;
+  width: 267px;
+  height: 253px;
+  position: absolute;
+}
+
+.hlv-group4542 {
+  top: 684px;
+  left: 143px;
+  width: 1147px;
+  height: 253px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.hlv-rectangle203 {
+  top: 22px;
+  left: 286px;
+  width: 861px;
+  height: 213px;
+  position: absolute;
+  border-radius: 60px;
+}
+
+.hlv-text14 {
+  top: 93px;
+  left: 355px;
+  color: rgba(0, 0, 0, 1);
+  width: 723px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: italic;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.hlv-text16 {
+  top: 39px;
+  left: 355px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.hlv-ellipse73 {
+  top: 0px;
+  left: 0px;
+  width: 267px;
+  height: 253px;
+  position: absolute;
+}
+
+.hlv-ellipse9 {
+  left: 718px;
+  width: 50px;
+  bottom: 31px;
+  height: 50px;
+  position: absolute;
+}
+
+.hlv-arrow2 {
+  left: 737px;
+  width: 13px;
+  bottom: 44px;
+  height: 10px;
+  position: absolute;
+}
+
+.hlv-arrow1 {
+  left: 737px;
+  width: 13px;
+  bottom: 60px;
+  height: 10px;
+  position: absolute;
+}
+
+.hlv-mainnavigation {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 87px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.hlv-div {
+  left: 272px;
+  width: 905px;
+  bottom: -8px;
+  height: 86.66666412353516px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-start;
+}
+
+.hlv-div1 {
+  gap: 130.96725463867188px;
+  top: 8px;
+  left: -0.321533203125px;
+  width: 80px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  padding: 0 9.297804832458496px 0 0;
+  position: absolute;
+  flex-grow: 1;
+  align-items: flex-end;
+}
+
+.hlv-divsigninsignup {
+  gap: 12.380951881408691px;
+  top: 18px;
+  left: 859px;
+  width: 70px;
+  display: flex;
+  padding: 0 0 6.190475940704346px 0;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.hlv-a {
+  width: 100px;
+  display: flex;
+  padding: 6.190475940704346px 16.322542190551758px 6.190475940704346px 17.023807525634766px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 144, 144, 1);
+  border-style: solid;
+  border-width: 1.5476189851760864px;
+  border-radius: 7737.3212890625px;
+}
+
+.hlv-frame1 {
+  gap: 10px;
+  width: 50px;
+  height: 39px;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  align-items: flex-start;
+}
+
+.hlv-text18 {
+  color: rgba(0, 144, 144, 1);
+  right: -3px;
+  bottom: 10px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 18.571428298950195px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.hlv-a1 {
+  width: 101px;
+  display: flex;
+  padding: 6.190475940704346px 16.322542190551758px 6.190475940704346px 17.023807525634766px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 144, 144, 1);
+  border-style: solid;
+  border-width: 1.5476189851760864px;
+  border-radius: 7737.3212890625px;
+}
+
+.hlv-frame11 {
+  gap: 10px;
+  width: 50px;
+  height: 39px;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  align-items: flex-start;
+}
+
+.hlv-text20 {
+  color: rgba(0, 144, 144, 1);
+  right: -16px;
+  bottom: 10px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 18.571428298950195px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.hlv-div2 {
+  width: 472.5195617675781px;
+  height: 43.33333206176758px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.hlv-text22 {
+  top: 11px;
+  left: 359px;
+  color: rgba(85, 85, 71, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.928571701049805px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 20.892854690551758px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.hlv-text24 {
+  top: 12px;
+  left: 221px;
+  color: rgba(85, 85, 71, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.928571701049805px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 20.892854690551758px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.hlv-text26 {
+  top: 12px;
+  left: 124px;
+  color: rgba(85, 85, 71, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.928571701049805px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 20.892854690551758px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.hlv-text28 {
+  top: 12px;
+  left: -15px;
+  color: rgba(85, 85, 71, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.928571701049805px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 20.892854690551758px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.hlv-image121 {
+  left: 124px;
+  width: 92px;
+  bottom: 1px;
+  height: 71px;
+  position: absolute;
+}
+
+.hlv-divsearch {
+  top: 28px;
+  left: 760px;
+  width: 101px;
+  height: 30.952381134033203px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.hlv-button {
+  top: 0px;
+  left: 150px;
+  width: 31px;
+  display: flex;
+  padding: 6.190475940704346px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 7737.3212890625px;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.hlv-svg {
+  width: 19px;
+  height: 19px;
+}
+
+.hlv-rectangle1 {
+  top: 3px;
+  right: -280px;
+  width: 190px;
+  height: 27px;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.hlv-text30 {
+  top: 6px;
+  color: rgb(157, 156, 156);
+  right: -154px;
+  height: auto;
+  position: absolute;
+  font-size: 12.381px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 18.5714px;
+  font-stretch: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,621 @@
+.asanas-yoga-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.asanas-yoga-asanas-yoga {
+  width: 100%;
+  height: 3157px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.asanas-yoga-mainnavigation {
+  top: 0px;
+  left: -14px;
+  width: 1448px;
+  height: 87px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.asanas-yoga-div {
+  top: 0px;
+  left: 338px;
+  width: 905px;
+  height: 86.66666412353516px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-start;
+}
+.asanas-yoga-divsigninsignup {
+  gap: 12.380951881408691px;
+  top: 18px;
+  left: 859px;
+  width: 70px;
+  display: flex;
+  padding: 0 0 6.190475940704346px 0;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.asanas-yoga-a {
+  width: 100px;
+  display: flex;
+  padding: 6.190475940704346px 16.322542190551758px 6.190475940704346px 17.023807525634766px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 144, 144, 1);
+  border-style: solid;
+  border-width: 1.5476189851760864px;
+  border-radius: 7737.3212890625px;
+}
+.asanas-yoga-frame1 {
+  gap: 10px;
+  width: 50px;
+  height: 39px;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  align-items: flex-start;
+}
+.asanas-yoga-text {
+  top: 9px;
+  color: rgba(0, 144, 144, 1);
+  right: -5px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 18.571428298950195px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-a1 {
+  width: 101px;
+  display: flex;
+  padding: 6.190475940704346px 16.322542190551758px 6.190475940704346px 17.023807525634766px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 144, 144, 1);
+  border-style: solid;
+  border-width: 1.5476189851760864px;
+  border-radius: 7737.3212890625px;
+}
+.asanas-yoga-frame11 {
+  gap: 10px;
+  width: 50px;
+  height: 39px;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  align-items: flex-start;
+}
+.asanas-yoga-text02 {
+  color: rgba(0, 144, 144, 1);
+  right: -15px;
+  bottom: 12px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 18.571428298950195px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-div1 {
+  width: 472.5195617675781px;
+  height: 43.33333206176758px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.asanas-yoga-text04 {
+  top: 11px;
+  left: 359px;
+  color: rgba(85, 85, 71, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.928571701049805px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 20.892854690551758px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-text06 {
+  top: 12px;
+  left: 221px;
+  color: rgba(85, 85, 71, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.928571701049805px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 20.892854690551758px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-text08 {
+  top: 12px;
+  left: 124px;
+  color: rgba(85, 85, 71, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.928571701049805px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 20.892854690551758px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-text10 {
+  top: 12px;
+  left: -15px;
+  color: rgba(85, 85, 71, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.928571701049805px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 20.892854690551758px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-image121 {
+  top: 8px;
+  left: 166px;
+  width: 92px;
+  height: 71px;
+  position: absolute;
+}
+.asanas-yoga-divsearch {
+  top: 29px;
+  left: 686px;
+  width: 227px;
+  height: 30.952381134033203px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.asanas-yoga-button {
+  top: 0px;
+  left: 150px;
+  width: 31px;
+  display: flex;
+  padding: 6.190475940704346px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 7737.3212890625px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.asanas-yoga-svg {
+  width: 19px;
+  height: 19px;
+}
+.asanas-yoga-rectangle1 {
+  top: 3px;
+  left: 191px;
+  width: 190px;
+  height: 27px;
+  position: absolute;
+  border-radius: 10px;
+}
+.asanas-yoga-text12 {
+  color: rgba(157, 156, 156, 1);
+  right: -25px;
+  bottom: 6px;
+  height: auto;
+  position: absolute;
+  font-size: 12.380951881408691px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 18.571428298950195px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-header {
+  top: 87px;
+  left: 0px;
+  width: 100%;
+  height: 740px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.asanas-yoga-rectangle25 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 734px;
+  position: absolute;
+}
+.asanas-yoga-hatha-yoga-posesfor-beginners315783073931 {
+  top: 0px;
+  left: 800px;
+  width: 672px;
+  height: 734px;
+  position: absolute;
+}
+.asanas-yoga-text14 {
+  top: 208px;
+  left: 132px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 18.571428298950195px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-text16 {
+  top: 268px;
+  left: 132px;
+  color: rgba(0, 0, 0, 1);
+  width: 561px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: justify;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-body {
+  top: 821px;
+  left: 207px;
+  width: 1033px;
+  height: 1111px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.asanas-yoga-text18 {
+  top: 179px;
+  color: rgba(0, 0, 0, 1);
+  width: 1033px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Light;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 300;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-text20 {
+  top: 96px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-text22 {
+  top: 307px;
+  color: rgba(0, 0, 0, 1);
+  width: 1009px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-text23 {
+  font-weight: 400;
+}
+.asanas-yoga-text24 {
+  font-weight: 300;
+}
+.asanas-yoga-text30 {
+  font-weight: 400;
+}
+.asanas-yoga-text31 {
+  font-weight: 300;
+}
+.asanas-yoga-text37 {
+  font-weight: 400;
+}
+.asanas-yoga-text38 {
+  font-weight: 300;
+}
+.asanas-yoga-text44 {
+  font-weight: 400;
+}
+.asanas-yoga-text46 {
+  top: 1017px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-blogfooter {
+  top: 2907px;
+  left: 0px;
+  width: 100%;
+  height: 270px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.asanas-yoga-rectangle22 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 270px;
+  position: absolute;
+}
+.asanas-yoga-rectangle23 {
+  top: 81px;
+  left: 487px;
+  width: 473px;
+  height: 169px;
+  position: absolute;
+  border-color: rgba(255, 253, 253, 1);
+}
+.asanas-yoga-pngwing10 {
+  top: 163px;
+  left: 558px;
+  width: 30px;
+  height: 24px;
+  position: absolute;
+}
+.asanas-yoga-pngwing11 {
+  top: 203px;
+  left: 558px;
+  width: 30px;
+  height: 31px;
+  position: absolute;
+}
+.asanas-yoga-pngwing12 {
+  top: 98px;
+  left: 555px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.asanas-yoga-text48 {
+  top: 88px;
+  left: 600px;
+  color: rgba(255, 255, 255, 1);
+  width: 312px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-text50 {
+  top: 161px;
+  left: 600px;
+  color: rgba(248, 248, 246, 1);
+  width: 156px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-text52 {
+  top: 204px;
+  left: 600px;
+  color: rgba(248, 248, 246, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-appsocialcircles {
+  gap: 8px;
+  top: 135px;
+  left: 267px;
+  width: 168px;
+  display: flex;
+  padding: 0 0 4px 0;
+  position: absolute;
+  flex-grow: 1;
+  align-items: flex-start;
+}
+.asanas-yoga-svg1 {
+  width: 36px;
+  height: 36px;
+}
+.asanas-yoga-svg2 {
+  width: 36px;
+  height: 36px;
+}
+.asanas-yoga-svg3 {
+  width: 36px;
+  height: 36px;
+}
+.asanas-yoga-svg4 {
+  width: 36px;
+  height: 36px;
+}
+.asanas-yoga-text54 {
+  top: 126px;
+  left: 1012px;
+  color: rgba(255, 255, 255, 1);
+  width: 224px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.asanas-yoga-text56 {
+  top: 18px;
+  left: 619px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+/* Schedule */
+.table-container {
+  border-collapse: collapse;
+  width: 100%;
+}
+table.table-container {
+  position: relative;
+  top: 1950px;
+  margin: 0 50px;
+}
+
+.table-container th,
+.table-container td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+.table-container caption {
+  text-align: center;
+  font-weight: light;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.table-container th {
+  background-color: #f2f2f2;
+}
+
+.table-container th[colspan="2"] {
+  background-color: #e0e0e0;
+}
+
+.table-container th[rowspan="2"],
+.table-container td:first-child {
+  background-color: #c0c0c0;
+  color: white;
+}
+
+.table-container td {
+  height: 40px;
+}
+
+.table-container tr:first-child th,
+.table-container tr:nth-child(2) th {
+  font-weight: bold;
+}
+
+.table-container tr.table-day th {
+  background-color: #c0c0c0;
+  color: white;
+}
+
+.table-container tr.table-room th {
+  background-color: #f2f2f2;
+}
+
+.table-container tr.table-slot1 {
+  background-color: #f9f9f9;
+}
+
+.table-container tr.table-slot2 {
+  background-color: #f9f9f9;
+}
+
+.table-container tr.table-slot3 {
+  background-color: #f9f9f9;
+}
+
+.table-container tr.table-slot4 {
+  background-color: #f9f9f9;
+}
+
+.table-container tr.table-slot5 {
+  background-color: #f9f9f9;
+}
+
+.table-container tr:hover {
+  background-color: #e6e6e6;
+}

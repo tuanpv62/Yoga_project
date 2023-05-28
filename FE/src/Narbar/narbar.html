@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <link rel="stylesheet" href="/FE/src/homepage/homepage.css">
+    <div class="homepage-mainnavigation" id="narbar">
+        <div class="homepage-div18">
+          <div class="homepage-divsigninsignup">
+            <button class="homepage-abutton2 js-register " id="openModalButtonRegister">
+              <div class="homepage-frame1">
+                <span class="homepage-text60"><span>Đăng ký</span></span>
+              </div>
+            </button>
+            <button class="homepage-abutton3 " id="openModalButtonLogin">
+              <div class="homepage-frame11">
+                <span class="homepage-text62">
+                  <span>Đăng nhập</span>
+                </span>
+              </div>
+            </button>
+          </div>
+          <div class="homepage-div19">
+            <span class="homepage-text64">
+              <span><a href="/FE/src/blog/blog.html">Blog</a></span>
+            </span>
+            <span class="homepage-text66">
+              <span><a href="/FE/src/huanluyenvien/hlv.html">Huấn luyện viên</a></span>
+            </span>
+            <span class="homepage-text68"><span>
+                <a href="/FE/src/course/course_page/course.html">Khoá học</a> </span>
+            </span>
+            <span class="homepage-text70">
+              <span><a href="/FE/src/homepage/homepage.html">Thông tin chung</a></span>
+            </span>
+          </div>
+        </div>
+
+        <div>
+          <a href="/FE/src/homepage/homepage.html">
+            <img src="/public/playground_assets/image1212181-38cx-200h.png" alt="IMAGE1212181"
+              class="homepage-image121" /> </a>
+        </div>
+        <div class="homepage-divsearch">
+          <label for="" class="search">
+            <i class="ti-search"></i>
+          </label>
+          <input type="text" class="search-input" placeholder="Tìm kiếm">
+        </div>
+        <div class="modal-login open" id="loginModal">
+          <div class="modal-container">
+            <span class="close" id="myButton">&times;</span>
+            <header class="modal-header">
+              Đăng Nhập
+            </header>
+
+            <div class="modal-body">
+              <div class="modal-login-user">
+                <label for="" class="modal-label">
+                  <i class="ti-user"></i>
+                </label>
+                <input class="modal-input" placeholder="Tên đăng nhập" required>
+              </div>
+
+
+              <label for="" class="modal-label">
+                <i class="ti-lock"></i>
+              </label>
+              <input class="modal-input" placeholder="Mật khẩu" required>
+
+              <button id="modal-login-button" type="submit">
+                Đăng Nhập
+              </button>
+            </div>
+
+            <footer class="modal-footer">
+              <p class="modal-register-but"><a href="#" id="register-link">Bạn chưa có tài khoản?</a></p>
+            </footer>
+
+          </div>
+        </div>
+
+        <div class="modal-register" id="registerModal">
+          <div class="modal-container-register">
+            <span class="close" id="myButton"><a>&times;</a></span>
+            <header class="modal-header-register">
+              Đăng Ký
+            </header>
+
+            <form action="#">
+              <div class="modal-body-re">
+                <div class="modal-box">
+                  <span class="details">Họ</span>
+                  <input class="modal-input-name" placeholder="Nhập họ của bạn" required>
+                </div>
+
+                <div class="modal-box">
+                  <span class="details">Tên</span>
+                  <input class="modal-input-name" placeholder="Nhập tên của bạn" required>
+                </div>
+
+                <div class="modal-box">
+                  <span class="details">Email</span>
+                  <input type="email" class="modal-input-name" placeholder="Nhập email của bạn">
+                </div>
+
+                <div class="modal-box">
+                  <span class="details">Số điện thoại</span>
+                  <input class="modal-input-name" placeholder="Nhập số điện thoại của bạn" required>
+                </div>
+
+                <div class="modal-box">
+                  <span class="details">Mật khẩu</span>
+                  <input type="password" class="modal-input-name" placeholder="Nhập mật khẩu của bạn" required>
+                </div>
+
+                <div class="modal-box">
+                  <span class="details">Xác thực mật khẩu</span>
+                  <input type="password" class="modal-input-name" placeholder="Nhập lại mật khẩu của bạn" required>
+                </div>
+
+                <div class="modal-day">
+                  <span class="details">Ngày sinh</span>
+                  <input type="text" class="modal-input-register" placeholder="Ngày" required>
+                  <input type="text" class="modal-input-register" placeholder="Tháng" required>
+                  <input type="text" class="modal-input-register" placeholder="Năm" required>
+                </div>
+
+                <div class="modal-gender">
+                  <span class="gender-title">Giới tính</span>
+                  <input type="radio" name="gender">Nam
+                  <input type="radio" name="gender">Nữ
+                </div>
+              </div>
+            </form>
+
+            <button id="modal-login-button-re" type="submit">
+              Đăng Ký
+            </button>
+
+            <footer class="modal-footer">
+              <p class="modal-register-but" id="login-link"><a href="#">Bạn đã có tài khoản?</a></p>
+            </footer>
+          </div>
+        </div>
+      </div>
+      <script src="/FE/src/js/functions.js"></script>
+</body>
+</html>
